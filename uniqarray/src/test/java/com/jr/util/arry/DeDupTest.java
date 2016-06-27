@@ -1,4 +1,4 @@
-package com.jr.util.arry.uniqarray;
+package com.jr.util.arry;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
